@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm 
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Faraz Murtaza
 </h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/farazmurtaza?style=social) 
@@ -17,22 +17,22 @@
 ## What I am Good at:
 
 ### Languages:
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img 
+src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img 
+src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 
 ### Frameworks:
-<img src="https://img.icons8.com/color/48/000000/net-framework.png"/>
-<img src="https://img.icons8.com/office/48/000000/react.png"/> 
+<img src="https://img.icons8.com/color/48/000000/net-framework.png"/> <img 
+src="https://img.icons8.com/office/48/000000/react.png"/> 
 
 ### Tools:
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/> <img 
+src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 ### Databases:
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img 
+src="https://img.icons8.com/color/48/000000/firebase.png"/> <img 
+src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 <br>
 <br>
